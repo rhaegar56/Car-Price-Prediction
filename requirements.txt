@@ -3,7 +3,7 @@ appdirs==1.4.4
 argh==0.26.2
 arrow==0.13.1
 asgiref==3.3.4
-astroid==2.5
+astroid==2.5.2
 async-generator==1.10
 atomicwrites==1.4.0
 attrs==20.3.0
@@ -83,10 +83,10 @@ prompt-toolkit==3.0.17
 psutil==5.8.0
 ptyprocess==0.7.0
 py==1.10.0
-pycodestyle==2.6.0
+pycodestyle==2.7.0
 pycparser==2.20
 pydocstyle==6.0.0
-pyflakes==2.2.0
+pyflakes==2.3.0
 Pygments==2.8.1
 pylint==2.7.4
 pyls-black==0.4.6
